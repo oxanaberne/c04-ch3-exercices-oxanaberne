@@ -5,6 +5,7 @@
 import math
 
 def square_root(a: float) -> float:
+    
     return 0.0
 
 
@@ -13,7 +14,7 @@ def square(a: float) -> float:
     return a
 
 def average(a: float, b: float, c: float) -> float:
-    res = (a + b + c)
+    res = (a + b + c)/3
     return res
 
 
