@@ -8,7 +8,8 @@ def square_root(a: float) -> float:
     if a < 0 :
         print("that square root is impossible")
     while 1 :
-        i=
+        i=0
+        if i**
     return 0.0
 
 
