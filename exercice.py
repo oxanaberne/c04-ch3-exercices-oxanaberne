@@ -9,7 +9,7 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    x = float(input("what is the number you want to put to square?"))
+    x = float(input())
     res = x**2
     
     return res
