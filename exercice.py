@@ -9,9 +9,9 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    res = x**2
+    a = x**2
     
-    return res
+    return a ** 2
 
 
 def average(a: float, b: float, c: float) -> float:
