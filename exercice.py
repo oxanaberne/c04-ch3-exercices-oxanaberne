@@ -10,6 +10,7 @@ def square_root(a: float) -> float:
     while 1 :
         i=0
         if i**2 < a < (i+1)**2 :
+            sqrt = i
             
     return 0.0
 
