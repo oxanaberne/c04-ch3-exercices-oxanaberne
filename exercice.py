@@ -13,7 +13,7 @@ def square_root(a: float) -> float:
             sqrt = i
         else :
             i+=1
-    return 0.0
+    return sqrt
 
 
 def square(a: float) -> float:    
