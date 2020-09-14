@@ -9,7 +9,8 @@ def square_root(a: float) -> float:
         print("that square root is impossible")
     while 1 :
         i=0
-        if i**2 < a < (i)
+        if i**2 < a < (i+1)**2 :
+            
     return 0.0
 
 
