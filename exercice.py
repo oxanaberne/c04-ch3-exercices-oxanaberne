@@ -13,8 +13,7 @@ def square_root(a: float) -> float:
         if i**2 < a and a < (i + 1) * (i + 1):
             sqrt = i
             break
-        else :
-            i+=1
+        i+=1
     return sqrt
 
 
