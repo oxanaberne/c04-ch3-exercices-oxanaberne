@@ -10,8 +10,8 @@ def square_root(a: float) -> float:
         return -1
     i = 0
     while 1 :
-        if i * i <= a and a <= (i + 1) * (i + 1):
-            sqrt = i + 1
+        if 
+        if i * i < a and a < (i + 1) * (i + 1):
             break
         i+=1
     return sqrt
