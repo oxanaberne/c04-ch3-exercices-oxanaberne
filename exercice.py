@@ -42,7 +42,7 @@ def to_degrees(angle_rads: float) -> tuple:
     minuntes = int(degrees) * 60
     seconds = int(minutes) *3600
     degrees = int(degrees)
-    
+    minutes = int(minjutes)
     return 0.0, 0.0, 0.0
 
 
