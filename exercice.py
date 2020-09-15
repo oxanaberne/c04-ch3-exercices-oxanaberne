@@ -47,11 +47,12 @@ def to_degrees(angle_rads: float) -> tuple:
 
 
 def to_celsius(temperature: float) -> float:
-    fare = (temperature * 1.8) + 32
+    
     return fare
 
 
 def to_farenheit(temperature: float) -> float:
+    fare = (temperature * 1.8) + 32
     cel = (temperature - 32) * 5 / 9
     return cel
 
