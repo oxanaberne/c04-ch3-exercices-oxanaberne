@@ -5,7 +5,6 @@
 import math
 
 def square_root(a: float) -> float:
-    i = 0
     if a < 0 :
         print("that square root is impossible")
     i = 0
