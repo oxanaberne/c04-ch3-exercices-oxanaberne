@@ -46,7 +46,7 @@ def to_farenheit(temperature: float) -> float:
 
 
 def main() -> None:
-    print(f"La racine carré de 144 est : {square_root(144)}")
+    print(f"La racine carré de 144 est : {square_root(8)}")
 
     print(f"Le carré de 12 est : {square(12)}")
 
