@@ -15,7 +15,7 @@ def square_root(a: float) -> float:
         elif (i + 1) * (i + 1) == a:
             return (i + 1)
         elif i * i < a and a < (i + 1) * (i + 1):
-            break
+            return i
         i+=1
     return -1
 
