@@ -8,7 +8,7 @@ def square_root(a: float) -> float:
     i = 0
     if a < 0 :
         print("that square root is impossible")
-    Starter code template repository was not found. The repository might be deleted, or the organization that owns the repository has restrictions on third-party access. (Resource could not be found on github.com)
+    i = 0
     while 1 :
         if i**2 < a < (i+1)**2 :
             sqrt = i
